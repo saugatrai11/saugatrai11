@@ -1,5 +1,29 @@
  💫 About Me:
-saugatrai11/saugatrai11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br><br>
+💫 About Me:
+Hi there! I'm **Saugat Rai** — a passionate BCA student from Kathmandu, Nepal 🇳🇵
+
+🚀 What I Do:
+- 🎓 Currently pursuing a Bachelor's in Computer Applications (BCA)
+- 🤖 Exploring the fascinating world of **Machine Learning** and **AI**
+- 💻 Building cool stuff with **Web Development** and diving into hands-on ML projects
+
+🌱 What I’m Learning:
+- 🧠 Machine Learning fundamentals & real-world applications
+- 🌐 Modern web technologies (HTML, CSS, JavaScript, PHP, MySQL)
+- 🔧 Best practices in software development and clean coding
+
+🤝 What I’m Looking For:
+- 👯 Collaborations on beginner-friendly ML or web projects
+- 💬 Meaningful conversations around tech, learning, and growth
+
+⚡ Fun Fact:
+I love blending **creativity** and **technology** — whether it’s through storytelling, design, or code. Let’s connect, build, and innovate together!
+
+📫 Let's Connect:
+Feel free to reach out or check out my work — I’m always open to exciting opportunities and collaborations.
+
+> “Code is like poetry — beautiful when it flows.” ✨
+...<br><br>
 
 
 ## 🌐 Socials:
