@@ -1,4 +1,3 @@
- 💫 About Me:
 💫 About Me:
 Hi there! I'm **Saugat Rai** — a passionate BCA student from Kathmandu, Nepal 🇳🇵
 
