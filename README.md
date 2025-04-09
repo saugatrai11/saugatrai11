@@ -3,30 +3,18 @@
 </p>
 
 
-💫 About Me:
-Hi there! I'm **Saugat Rai** — a passionate BCA student from Kathmandu, Nepal 🇳🇵
+💫 About Me
+Hi there! I'm Saugat Rai, a passionate BCA student from Kathmandu, Nepal 🇳🇵. I'm currently pursuing a Bachelor's in Computer Applications (BCA), where I’m diving deep into the fascinating world of Machine Learning and Artificial Intelligence. Alongside that, I love building cool projects through Web Development and experimenting with hands-on ML applications.
 
-🚀 What I Do:
-- 🎓 Currently pursuing a Bachelor's in Computer Applications (BCA)
-- 🤖 Exploring the fascinating world of **Machine Learning** and **AI**
-- 💻 Building cool stuff with **Web Development** and diving into hands-on ML projects
+I'm constantly learning — whether it’s understanding the fundamentals of Machine Learning, exploring modern web technologies like HTML, CSS, JavaScript, PHP, and MySQL, or sharpening my skills in clean and efficient software development.
 
-🌱 What I’m Learning:
-- 🧠 Machine Learning fundamentals & real-world applications
-- 🌐 Modern web technologies (HTML, CSS, JavaScript, PHP, MySQL)
-- 🔧 Best practices in software development and clean coding
+I’m always on the lookout for exciting opportunities, especially to collaborate on beginner-friendly ML or web-based projects. I truly enjoy having meaningful conversations about tech, learning, and personal growth.
 
-🤝 What I’m Looking For:
-- 👯 Collaborations on beginner-friendly ML or web projects
-- 💬 Meaningful conversations around tech, learning, and growth
+⚡ A fun fact about me: I love blending creativity with technology — whether it’s through storytelling, design, or code. Let’s connect, build, and innovate together!
 
-⚡ Fun Fact:
-I love blending **creativity** and **technology** — whether it’s through storytelling, design, or code. Let’s connect, build, and innovate together!
+📫 Feel free to reach out or check out my work — I’m always open to interesting collaborations and ideas.
 
-📫 Let's Connect:
-Feel free to reach out or check out my work — I’m always open to exciting opportunities and collaborations.
-
-> “Code is like poetry — beautiful when it flows.” ✨
+“Code is like poetry — beautiful when it flows.” ✨
 ...<br><br>
 
 
