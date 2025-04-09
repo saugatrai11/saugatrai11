@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/saugatrai11/saugatrai11/blob/main/github-header-image.png?raw=true" alt="GitHub Header" />
+</p>
+
+
 💫 About Me:
 Hi there! I'm **Saugat Rai** — a passionate BCA student from Kathmandu, Nepal 🇳🇵
 
